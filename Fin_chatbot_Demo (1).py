@@ -460,7 +460,7 @@ def main():
     else:
         show_main_app()
 
-if __name__ == "__main__":  # Fixed typo in original code (_name_ to __name__)
+if __name__ == "__main__":  # Fixed typo in original code (_name_ to __name__))
     try:
         main()
     finally:
